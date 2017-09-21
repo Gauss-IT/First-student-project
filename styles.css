@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.e {
+    text-decoration: none;
+}
+.b:hover {
+    text-decoration: underline
+}
+.a {
+    font-size: 18px;
+    color: #1a0dab;
+    font-family: arial regular;
+    text-decoration: none;
+}
+.c {
+    color: #006621;
+    font-size: 14px;
+    font-family: arial regular;
+}
+.d {
+    color: #545454;
+    font-family: arial regular;
+    font-size: 12.5px;
+}
+.f {
+    text-decoration: none
+}
+.g:hover {
+    text-decoration: underline;
+}
+.h {
+    opacity: 0.9;
+    /*filter: alpha(opacity=90);*/
+    color: #545454;
+    font-family: arial regular;
+    font-size: 12.5px;
+}
+table {
+    width: 100%;
+}
+.table1 {
+    width: 100%;
+}
+.first-td {
+    width: 30%;
+    height: 10px;
+}
+.second-td {
+    width: 70%;
+    height: 100px;
+    padding-right: 400px;
+    padding-top: 70px;
+}
+.third-td {
+    text-align: left;
+    padding-left: 200px;
+}
+.fotoja2 {
+    text-align: center;
+}
+.fundi {
+    width: 1125px;
+    color: gray;
+}
+.fundi1 {
+    padding: 10px;
+}
+hr {
+    width: 100%;
+}
+a {
+    text-decoration: none;
+    color: gray;
+}
+a:hover {
+    color: black;
+}
+ul {
+    list-style-type: none;
+    padding: 0px;
+    font-family: Arial;
+    font-size: 15px;
+}
+li {
+    display: inline-block;
+    padding: 10px;
+}
+li a {
+    display: inline-block;
+    /* color: #DCDCDC; */
+    text-decoration: none;
+}
+li a:hover {
+    color: blue;
+}
